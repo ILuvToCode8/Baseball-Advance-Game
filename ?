@@ -21,7 +21,7 @@
     </style>
 </head>
 <body>
-    <!-- This pulls the raw, unblocked game build directly into your custom window -->
+    <!-- This pulls the exact Baseball Advance game engine directly -->
     <iframe src="https://github.io"></iframe>
 </body>
 </html>
